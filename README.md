@@ -4,8 +4,10 @@
 </h1>
  <hr/>
 <div align="center">
-  I’m a tech enthusiast who loves building applications that brings positive impact to end-users.
-  * 🌍  I'm based in Singapore
+  🌍  I'm based in Singapore.
+  <br>
+  🖥️  I’m a tech enthusiast who loves building applications that brings positive impact to end-users.
+
 </div>
 
 <br/>
