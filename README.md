@@ -8,7 +8,7 @@ I’m a tech enthusiast who loves building secure and scalable web applications.
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [My Portfolio](http://zhetaoguo.com)
-* ✉️  You can contact me at [zactao.work@gmail.com](mailto:zactao.work@gmail.com)
+
 
 ### Skills
 
